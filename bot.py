@@ -2,8 +2,8 @@ from re import findall
 from rubika import Bot
 import time
 
-bot = Bot("YOUR-AUTH")
-target = "GUID"
+bot = Bot("pxfstkbuvzczqbuuuxsdisdoccoquoeu")
+target = "g0B2I9d0639cb4363760be29ec603b00"
 
 # Coded By : github.com/HiByeDev ~ rubika -> @Develover
 # Tnx to github.com/Bahman-ahmadi
